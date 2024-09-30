@@ -1,0 +1,1001 @@
+amount,transaction_type,account_age,location,is_fraud
+8290.888547543193,deposit,6,Los Angeles,1
+5404.256676664422,deposit,6,New York,1
+863.1121856058282,deposit,9,Myanmar,0
+932.4454263887137,deposit,1,Myanmar,0
+3327.204067865373,deposit,6,Myanmar,1
+5275.036392008361,deposit,1,Chicago,0
+3348.208767980445,withdrawal,1,Chicago,1
+9927.402649081521,deposit,6,Myanmar,1
+5615.4934912815515,withdrawal,3,Los Angeles,0
+1186.1274288252762,withdrawal,7,Chicago,1
+9676.35890719798,deposit,8,Myanmar,1
+6175.854822883012,withdrawal,1,Los Angeles,1
+1280.487739407754,withdrawal,9,Myanmar,0
+5983.822476623082,deposit,5,Los Angeles,1
+6872.208543399881,deposit,9,Chicago,0
+7072.500317385642,withdrawal,2,Chicago,0
+2067.949319860186,deposit,2,Chicago,0
+8323.608882148648,withdrawal,8,Chicago,0
+8534.502572787025,deposit,8,Myanmar,1
+5406.641360496562,deposit,10,Los Angeles,0
+8660.287673579816,withdrawal,8,Los Angeles,0
+1843.3511943133476,withdrawal,5,Myanmar,0
+1177.2501221142682,withdrawal,6,Myanmar,1
+5811.310566689898,withdrawal,10,Chicago,0
+2098.759953056502,withdrawal,5,Myanmar,0
+164.66635360921603,withdrawal,4,Chicago,1
+4421.052773674173,withdrawal,4,Chicago,0
+9783.386562109265,deposit,4,New York,0
+4978.569767637882,deposit,6,Myanmar,0
+3430.082318621084,withdrawal,7,New York,1
+9664.66124917138,withdrawal,2,Myanmar,1
+640.7310091544405,withdrawal,1,Los Angeles,0
+5341.87266291191,withdrawal,1,Los Angeles,1
+1295.645973567548,withdrawal,3,Myanmar,0
+7852.377023442361,deposit,5,New York,1
+7345.421694122344,withdrawal,6,Chicago,0
+9770.428070808772,deposit,5,Chicago,0
+4538.865075339374,deposit,6,New York,1
+9730.307413377488,withdrawal,6,Chicago,0
+6631.802458076639,withdrawal,8,New York,0
+3048.5675267024108,withdrawal,7,Chicago,1
+8591.66901934256,withdrawal,9,Myanmar,1
+8245.438389020066,deposit,4,Myanmar,1
+2000.5298028964733,withdrawal,1,Chicago,0
+2992.878918919322,deposit,3,Chicago,0
+2694.0989102920685,withdrawal,6,Los Angeles,0
+6175.101626712091,withdrawal,10,Myanmar,0
+927.8012447540218,withdrawal,7,New York,1
+2869.352447852758,withdrawal,3,Chicago,1
+1189.7755345527182,deposit,3,New York,0
+4332.129846724352,deposit,2,Myanmar,1
+8087.9439298287725,withdrawal,9,Myanmar,1
+1315.3134618820288,deposit,10,Los Angeles,0
+5364.310799383232,deposit,7,Los Angeles,0
+4397.174306541978,deposit,9,Chicago,1
+384.2962491158253,deposit,6,Los Angeles,0
+2039.9985109655734,withdrawal,7,Chicago,0
+3860.118854370019,withdrawal,3,New York,1
+7954.96384895281,withdrawal,7,New York,1
+5008.703810644975,deposit,7,Los Angeles,0
+8430.49086566964,deposit,2,Myanmar,0
+3603.3169711183155,withdrawal,9,Los Angeles,1
+6778.819676811736,withdrawal,6,Los Angeles,1
+1229.3033631613241,withdrawal,4,Myanmar,0
+7995.983227968819,deposit,7,Los Angeles,1
+8070.77184798625,withdrawal,5,Myanmar,1
+3027.629959778433,deposit,9,Los Angeles,0
+1993.1228504110925,deposit,7,Chicago,0
+2946.238130617346,deposit,3,Chicago,0
+2832.1436920557526,withdrawal,10,Chicago,0
+5323.843037808377,deposit,4,Myanmar,1
+3234.421113650589,deposit,8,Los Angeles,0
+8284.79218754159,deposit,3,New York,0
+3854.4673131243544,withdrawal,7,Chicago,0
+7641.922189098201,withdrawal,10,Myanmar,0
+1033.410745298339,deposit,1,Los Angeles,0
+3089.9808855011634,deposit,3,Los Angeles,0
+5065.448408808975,withdrawal,6,Chicago,1
+1012.1672462788258,deposit,3,Los Angeles,0
+4559.009023349752,withdrawal,3,New York,0
+4187.872923234045,deposit,3,New York,0
+628.5683155450772,deposit,4,Chicago,0
+9283.267286635193,deposit,10,Myanmar,1
+9183.033726821233,withdrawal,1,Los Angeles,1
+2775.9625335592173,deposit,2,Los Angeles,0
+5476.525124229125,deposit,4,Chicago,1
+9121.672767720598,withdrawal,4,Chicago,1
+3333.43177550893,withdrawal,2,Chicago,0
+7595.721251573181,withdrawal,10,Myanmar,0
+7038.533924536467,withdrawal,6,Los Angeles,1
+4737.867913997723,deposit,4,New York,1
+8741.707063213906,withdrawal,9,Myanmar,1
+4595.75621887932,withdrawal,9,New York,1
+3903.3825079306503,withdrawal,10,Myanmar,1
+182.39575371521366,deposit,5,Myanmar,0
+5502.794806746165,deposit,4,Chicago,0
+4849.446732830152,withdrawal,4,Myanmar,0
+2968.4870865843136,withdrawal,9,Myanmar,1
+8659.21973292204,withdrawal,1,Los Angeles,0
+4948.66796605532,withdrawal,5,Los Angeles,1
+4769.420233152877,withdrawal,8,New York,1
+8913.487658781682,deposit,6,Chicago,0
+7676.8518586899945,withdrawal,7,Chicago,1
+4841.405293426895,withdrawal,3,Myanmar,1
+6576.733154753842,deposit,5,New York,0
+4252.874639399034,withdrawal,3,Chicago,0
+2978.485150065818,deposit,3,Myanmar,1
+3779.5396884879683,withdrawal,10,Myanmar,0
+5880.192955019892,deposit,9,Myanmar,0
+4216.331922729009,deposit,5,New York,0
+5057.092445613852,withdrawal,6,Los Angeles,0
+6595.376525710217,deposit,3,New York,1
+9704.788523185784,deposit,1,Chicago,0
+3625.950876868912,withdrawal,5,Myanmar,1
+7629.347389492044,withdrawal,10,New York,0
+6609.486929901791,deposit,7,Chicago,1
+7017.837021520863,withdrawal,5,Myanmar,0
+3252.8477655505953,withdrawal,1,Chicago,1
+479.1017513000667,deposit,5,Los Angeles,1
+5324.8085549565985,withdrawal,6,Los Angeles,0
+8373.169081797863,withdrawal,7,Los Angeles,1
+9781.441738858757,withdrawal,2,Myanmar,0
+6433.1210289176315,withdrawal,1,Chicago,0
+1652.4434488796905,deposit,1,Los Angeles,1
+6266.439773115518,deposit,5,New York,0
+7118.442377133117,withdrawal,9,New York,1
+5356.204603608551,withdrawal,1,Chicago,0
+3056.460499593801,deposit,7,Myanmar,1
+3215.91745646584,withdrawal,9,Chicago,0
+7193.223519847691,deposit,9,Myanmar,1
+1582.233977870024,withdrawal,8,Myanmar,0
+8999.131755550552,withdrawal,3,Los Angeles,0
+3947.1193409211833,deposit,3,Myanmar,1
+6252.376944458881,deposit,6,Myanmar,1
+256.1030730415665,deposit,4,Los Angeles,1
+8421.785230127813,deposit,4,New York,1
+951.4559697624243,deposit,3,Chicago,1
+8703.153299525695,deposit,10,Chicago,1
+3919.5027166185437,withdrawal,4,New York,0
+2201.572808450389,withdrawal,3,Myanmar,1
+4771.87003887959,withdrawal,10,Los Angeles,0
+5238.784150632867,deposit,4,New York,1
+9769.211075349607,deposit,5,Chicago,1
+8021.507043927538,withdrawal,1,Chicago,0
+2283.4684483756296,deposit,7,Chicago,1
+6300.891142079104,withdrawal,5,Chicago,1
+8837.025887225855,withdrawal,3,New York,0
+3569.143570446644,withdrawal,5,Myanmar,1
+3233.542679760023,deposit,5,Los Angeles,0
+5410.611897357238,deposit,9,Chicago,1
+6821.686076622168,withdrawal,8,Myanmar,0
+4035.7509458714176,deposit,10,New York,1
+331.89132564195205,deposit,7,Chicago,0
+5594.030394614013,deposit,7,Chicago,0
+5866.4923395970945,withdrawal,5,Los Angeles,0
+5101.315158106433,withdrawal,8,New York,0
+2730.8265403041573,withdrawal,6,Chicago,1
+7488.721097987476,deposit,4,Los Angeles,1
+8310.500149389829,withdrawal,3,Myanmar,0
+4501.854085949725,deposit,10,Chicago,0
+9519.938446552296,withdrawal,2,Chicago,1
+2852.0560143302387,withdrawal,8,Chicago,1
+1671.3707771260354,deposit,9,Chicago,1
+7470.010267842494,deposit,2,Myanmar,1
+2159.814989676122,deposit,8,Myanmar,1
+5315.748184325438,withdrawal,4,Chicago,1
+5506.410954256546,deposit,3,New York,1
+3450.387338899813,deposit,8,New York,1
+9596.607506338132,deposit,9,Chicago,1
+8788.540408116685,deposit,4,Myanmar,0
+9728.527080727275,deposit,7,Chicago,0
+106.46990628600241,deposit,7,Los Angeles,1
+5061.668641838316,deposit,3,New York,0
+8958.123304287898,withdrawal,6,Chicago,0
+3727.166925018506,withdrawal,9,New York,0
+544.7685914576679,deposit,3,Los Angeles,1
+6233.6745670844375,withdrawal,4,Los Angeles,1
+2659.044106036242,deposit,5,Myanmar,1
+1567.6210994386845,deposit,9,Myanmar,1
+3422.5545478629224,deposit,5,Los Angeles,0
+6643.483320290715,withdrawal,4,New York,1
+5384.393784145101,deposit,3,Myanmar,0
+7522.253676764674,withdrawal,2,Myanmar,0
+8715.441194661378,withdrawal,2,Chicago,0
+6895.245103693036,deposit,2,New York,1
+3813.2356920104744,withdrawal,3,New York,1
+5744.282574545306,withdrawal,6,Myanmar,1
+1518.5289479079213,withdrawal,2,Myanmar,0
+7508.093340277004,withdrawal,2,Myanmar,1
+2095.9987693542366,deposit,4,Myanmar,0
+1433.3080258228072,deposit,1,Chicago,1
+3931.8845012372917,deposit,8,Myanmar,1
+8023.570164965996,deposit,10,New York,0
+560.3464186587973,withdrawal,5,Myanmar,1
+7117.077262552605,withdrawal,9,New York,1
+561.6230155866523,deposit,4,Los Angeles,0
+6718.644649339263,withdrawal,4,Myanmar,0
+3087.4200974076975,withdrawal,7,Los Angeles,1
+6289.68157854768,withdrawal,4,Myanmar,0
+2657.5791885873955,withdrawal,9,New York,0
+5187.463000315435,deposit,9,Myanmar,0
+619.533785970426,deposit,10,Myanmar,1
+9785.77212566624,withdrawal,1,Los Angeles,0
+6136.082628994556,deposit,6,Myanmar,0
+508.3261828740537,withdrawal,6,New York,1
+1686.4654133889198,deposit,4,Chicago,0
+9299.156928451212,withdrawal,4,New York,1
+9497.662550640945,withdrawal,8,New York,1
+4074.764768996464,withdrawal,9,Chicago,0
+2926.605402442209,deposit,5,Los Angeles,1
+6833.477585253826,withdrawal,10,Los Angeles,0
+9246.902008215015,deposit,3,Los Angeles,0
+7565.210968887346,withdrawal,1,Los Angeles,1
+2014.0060727279044,withdrawal,2,Myanmar,0
+7993.598371150002,withdrawal,7,Los Angeles,1
+8471.281305441451,withdrawal,1,New York,1
+6750.969851531784,deposit,10,New York,0
+7823.003848344861,deposit,10,Myanmar,1
+7395.020219989072,deposit,9,Myanmar,1
+2227.8742909008006,withdrawal,7,New York,0
+8454.505029410799,deposit,3,New York,1
+861.4988074931643,deposit,6,Los Angeles,0
+3991.396785313765,deposit,4,Chicago,0
+5413.640918071524,deposit,4,Los Angeles,1
+839.0973183578211,deposit,9,Chicago,0
+6088.787635684428,withdrawal,5,Los Angeles,0
+9819.99912461201,deposit,3,Chicago,1
+1941.4231046757557,withdrawal,7,Myanmar,0
+5390.680650877989,deposit,6,Los Angeles,0
+7666.932068710545,deposit,3,Los Angeles,0
+3688.019767274219,withdrawal,3,Los Angeles,0
+6029.889936305565,deposit,8,Chicago,1
+4846.857093280026,withdrawal,1,New York,0
+2467.714006739685,withdrawal,10,New York,1
+8094.45071553107,withdrawal,7,Chicago,0
+9508.528530528887,withdrawal,1,Myanmar,0
+8431.186295147305,withdrawal,9,New York,1
+863.1583976550618,withdrawal,8,New York,1
+1719.310144993764,withdrawal,10,Chicago,1
+4167.964607358771,deposit,10,Chicago,1
+4467.98376408746,deposit,8,Los Angeles,1
+5721.710667153122,withdrawal,7,New York,0
+268.66203090001795,deposit,1,New York,0
+4675.783251355819,withdrawal,5,Chicago,1
+2228.040287206752,deposit,1,Myanmar,0
+7287.430243540551,deposit,2,New York,1
+9179.539446724022,deposit,6,New York,1
+546.7605024159726,withdrawal,8,Myanmar,0
+1444.717002253489,deposit,5,New York,0
+1148.7599000992286,withdrawal,9,Chicago,1
+6719.048136435474,deposit,8,Los Angeles,1
+9612.307515627306,withdrawal,10,Los Angeles,1
+1284.4931023481633,withdrawal,4,Chicago,1
+6967.164565556535,deposit,6,Chicago,0
+8542.871398395626,deposit,3,Myanmar,1
+1156.233508149225,deposit,10,New York,1
+5887.8513826747785,deposit,3,Chicago,1
+1317.26408307935,deposit,7,Myanmar,0
+6740.416075580836,deposit,4,New York,0
+7435.566120995089,withdrawal,5,Los Angeles,0
+38.796625602225994,deposit,3,New York,0
+8968.737567113014,withdrawal,6,Chicago,1
+6193.580423975219,withdrawal,4,New York,0
+922.4920110240022,withdrawal,1,Myanmar,0
+2763.6136797837153,withdrawal,9,Myanmar,0
+8182.823095408385,deposit,7,Los Angeles,1
+4449.768253973832,deposit,2,Chicago,0
+3077.894435541641,withdrawal,8,New York,0
+5345.1000182976395,withdrawal,4,Los Angeles,1
+7460.083675082427,deposit,1,Los Angeles,0
+4434.921437564186,deposit,6,Los Angeles,1
+5208.128812479145,withdrawal,6,Chicago,1
+741.804319968499,withdrawal,5,Los Angeles,0
+4942.489401969019,deposit,2,Chicago,0
+5721.038773215358,withdrawal,6,New York,0
+5201.3783714800165,deposit,2,New York,0
+4118.44570863517,withdrawal,1,Chicago,0
+1044.1828412637244,deposit,9,Los Angeles,0
+2530.2648153509913,withdrawal,10,New York,1
+1938.8565063081128,deposit,1,Chicago,1
+6105.9265721177135,deposit,6,Los Angeles,0
+4021.6768367968816,withdrawal,6,New York,1
+4116.572586558897,deposit,4,Myanmar,1
+2201.2541931574137,deposit,1,Chicago,0
+5333.91284301796,deposit,7,Los Angeles,0
+1044.6992653824818,withdrawal,7,Los Angeles,1
+9710.063024029056,deposit,8,Los Angeles,1
+7311.423772897432,withdrawal,10,New York,1
+168.28090857298142,deposit,7,Myanmar,0
+6371.388380276363,withdrawal,3,Chicago,0
+7411.447237746998,withdrawal,10,Los Angeles,0
+6098.2581916224835,withdrawal,5,New York,1
+2442.713100139691,deposit,6,Los Angeles,0
+7613.772752007027,withdrawal,3,New York,1
+7428.161759954769,deposit,7,Los Angeles,1
+2111.1060209283164,deposit,1,Chicago,1
+5626.81743080971,deposit,5,Myanmar,1
+5270.213639026698,withdrawal,1,New York,0
+5246.619219046895,deposit,7,New York,0
+5468.504312537082,withdrawal,7,Chicago,0
+3870.5625440334275,deposit,3,Chicago,0
+2524.2057073077794,withdrawal,6,Chicago,0
+6538.04688518996,withdrawal,8,Myanmar,1
+5080.528671668068,deposit,8,New York,1
+2861.7573390844186,withdrawal,7,New York,1
+4306.886538161859,deposit,10,New York,1
+2863.0426125770014,withdrawal,2,New York,0
+4593.352302539149,deposit,9,Chicago,1
+4982.307108772674,withdrawal,7,New York,1
+6780.946093956465,deposit,7,Chicago,0
+9623.911390029198,withdrawal,2,Myanmar,1
+5957.645490509729,withdrawal,3,Chicago,1
+2923.5889684804174,deposit,10,Chicago,1
+4115.3306431504625,withdrawal,9,Chicago,1
+8089.074703200391,deposit,5,New York,0
+2399.8579845230333,withdrawal,6,New York,1
+3909.129918088159,deposit,6,Chicago,0
+4004.820425509413,deposit,1,Los Angeles,0
+759.1594197861151,deposit,5,New York,0
+7545.510605027758,deposit,2,Myanmar,1
+6740.616355853661,deposit,1,Chicago,1
+6643.296913566489,withdrawal,6,Los Angeles,0
+5930.01375598746,withdrawal,6,Chicago,1
+8486.002398526334,withdrawal,3,Los Angeles,0
+719.8275864783434,withdrawal,7,Myanmar,1
+5114.440861365215,withdrawal,3,New York,1
+4247.230964087549,withdrawal,5,New York,1
+4090.8849811536797,deposit,4,Los Angeles,1
+7306.575955659275,deposit,10,Myanmar,0
+4610.051496690479,withdrawal,7,Los Angeles,0
+1614.643302642954,withdrawal,10,Myanmar,1
+459.9827126282223,withdrawal,2,Myanmar,0
+6909.815313496356,deposit,9,New York,1
+8522.768937209983,deposit,3,New York,1
+7614.76932137662,deposit,10,New York,1
+4449.745540996798,withdrawal,3,New York,1
+2598.3909129224685,withdrawal,8,Los Angeles,0
+6328.564165293028,withdrawal,7,Chicago,0
+2979.556270630743,deposit,10,Chicago,1
+5029.322403862632,withdrawal,6,Chicago,1
+1698.660830113998,withdrawal,5,Chicago,0
+2091.789161548284,deposit,5,Los Angeles,0
+7054.450110691542,deposit,10,Myanmar,0
+8636.672242492928,deposit,1,Myanmar,1
+5266.870078470706,deposit,6,Myanmar,1
+7215.590732465114,deposit,2,Los Angeles,0
+6427.015474624585,deposit,8,Los Angeles,1
+7658.934469195669,withdrawal,10,Los Angeles,1
+2176.0517471138633,deposit,5,New York,0
+1943.006265834163,deposit,6,Los Angeles,1
+2286.4944108169384,withdrawal,10,Los Angeles,0
+46.272047998166265,deposit,6,Los Angeles,1
+4098.231478006142,deposit,3,Los Angeles,0
+4927.3119910747355,withdrawal,3,Los Angeles,0
+4863.122168520326,withdrawal,5,New York,1
+1369.0566579726042,deposit,4,Myanmar,1
+1934.7341876263001,withdrawal,1,Los Angeles,1
+3964.5907261500083,withdrawal,7,Chicago,1
+5165.897668070726,deposit,10,Myanmar,0
+6119.031232972593,withdrawal,9,New York,0
+9702.89442469228,withdrawal,6,Chicago,1
+720.5755096101196,deposit,4,Myanmar,1
+2073.715140623306,deposit,2,Los Angeles,0
+4703.725799160249,withdrawal,4,Myanmar,0
+6451.910431909076,withdrawal,2,Chicago,0
+3610.6644552403336,withdrawal,2,Chicago,0
+1610.4305759896624,deposit,8,New York,1
+428.5303321101825,deposit,7,Myanmar,1
+3668.2931328344403,deposit,9,Los Angeles,1
+566.3904305816106,deposit,10,Myanmar,1
+7292.466908882196,deposit,9,Los Angeles,0
+5490.110570594813,withdrawal,1,New York,0
+4881.402730095874,withdrawal,6,Chicago,0
+7306.635078743469,withdrawal,8,Chicago,0
+393.6307121850423,deposit,3,Myanmar,0
+6964.075809917497,withdrawal,6,Chicago,1
+4526.201711227096,withdrawal,1,Myanmar,1
+1500.6761542666586,deposit,8,Myanmar,0
+4884.545491213933,deposit,5,New York,0
+8791.33547293122,deposit,5,New York,1
+274.3878548639245,withdrawal,4,Myanmar,1
+6820.483737517738,deposit,5,Myanmar,0
+8855.443329461788,withdrawal,9,New York,1
+6263.520143094977,withdrawal,7,Chicago,1
+4167.026556236791,deposit,8,Los Angeles,0
+2039.6355899011146,withdrawal,2,New York,0
+8438.714369816907,deposit,10,Los Angeles,0
+2543.2743797974845,withdrawal,2,New York,1
+3679.550117309835,deposit,8,Chicago,1
+9042.972884540137,withdrawal,9,Los Angeles,1
+517.7934945750139,deposit,9,Los Angeles,1
+7069.6550961226485,withdrawal,3,New York,1
+3861.5118412054885,deposit,7,Chicago,0
+35.34750699516906,deposit,4,Los Angeles,1
+8377.359416956797,withdrawal,7,Chicago,0
+8080.073298118044,deposit,2,Chicago,1
+1092.7782304200728,deposit,5,Myanmar,0
+1591.8803548618423,withdrawal,4,New York,0
+1923.3302410121105,withdrawal,4,New York,0
+615.1732741732508,deposit,4,Los Angeles,1
+6663.911012896354,deposit,10,Chicago,0
+8396.877019637068,deposit,8,New York,1
+1181.1232911193188,deposit,4,Los Angeles,1
+2330.5306108388463,withdrawal,3,Chicago,0
+5616.220896979645,deposit,6,Myanmar,1
+6778.771804418518,withdrawal,3,Chicago,0
+6595.457706933525,withdrawal,4,Chicago,1
+5054.385900302295,deposit,7,Los Angeles,0
+5612.526530865042,deposit,9,Chicago,0
+2592.2049862757963,deposit,8,Myanmar,1
+8038.068906117373,deposit,9,Myanmar,0
+4927.234923135943,deposit,10,Chicago,1
+7198.55487438161,deposit,8,Myanmar,0
+4870.503012283727,deposit,3,Los Angeles,0
+2113.0585240901246,deposit,10,Chicago,1
+2314.362664402098,deposit,2,Chicago,1
+4744.4995817713425,deposit,7,New York,0
+9093.789384523776,deposit,2,Myanmar,1
+5447.639713105745,withdrawal,6,New York,1
+7384.64103529034,withdrawal,4,Los Angeles,0
+3384.1275875497486,deposit,4,New York,0
+6194.086194967238,deposit,9,New York,1
+3337.598880466764,withdrawal,6,Myanmar,0
+4311.650596387437,withdrawal,7,Los Angeles,1
+6898.536846791591,withdrawal,6,Los Angeles,0
+2535.3329947891343,withdrawal,10,Myanmar,0
+824.7129114573878,deposit,10,Myanmar,0
+1518.2026012191468,deposit,7,Chicago,1
+9395.691991017686,withdrawal,1,Myanmar,0
+405.5021459266,deposit,7,Myanmar,0
+7556.924644160717,withdrawal,6,Myanmar,1
+5094.37129674831,deposit,4,Chicago,1
+1118.3845606665616,withdrawal,9,Chicago,0
+2990.5827030908326,deposit,4,Myanmar,1
+5970.522713977316,deposit,7,New York,1
+1007.0665269679471,deposit,4,Chicago,0
+6045.172367245696,deposit,5,New York,1
+9695.906347812303,withdrawal,3,Myanmar,1
+5272.4770159797645,withdrawal,6,Chicago,1
+1179.256078645839,deposit,3,Los Angeles,1
+4017.0069316438626,deposit,4,Myanmar,0
+1806.034518088945,deposit,7,Chicago,0
+9796.505516030214,deposit,4,Myanmar,1
+8846.646485396137,deposit,4,Chicago,0
+4901.028053742028,deposit,10,New York,0
+2705.1206301214884,withdrawal,10,Chicago,0
+6621.184102991077,withdrawal,1,New York,1
+4571.323149718116,withdrawal,7,Chicago,0
+2240.466073677851,deposit,2,New York,0
+4380.514735707964,deposit,8,Myanmar,1
+5906.4556346114005,withdrawal,2,New York,0
+6604.27760366406,withdrawal,9,Chicago,0
+1170.753749276302,withdrawal,5,New York,1
+5565.214210067481,deposit,4,Los Angeles,1
+805.8488183105194,withdrawal,3,Los Angeles,1
+444.2213638046664,deposit,6,Los Angeles,1
+8804.281949827768,withdrawal,5,New York,0
+7198.844067764739,deposit,8,Chicago,1
+2520.3338839262447,withdrawal,6,Los Angeles,0
+707.3290510344549,withdrawal,6,Los Angeles,0
+8966.230218926186,withdrawal,6,Myanmar,1
+2734.5706177193015,withdrawal,6,New York,0
+1985.3522029350192,withdrawal,4,Los Angeles,1
+6875.773426547764,withdrawal,6,New York,0
+2523.225879993492,deposit,10,Chicago,1
+6955.121052163787,withdrawal,6,Myanmar,1
+5553.100568706168,withdrawal,5,Myanmar,1
+7736.265374946729,deposit,10,New York,1
+6046.683516611326,deposit,1,Los Angeles,0
+2194.7294215430834,deposit,7,Myanmar,0
+9986.325357714288,withdrawal,3,Myanmar,1
+8972.545896041547,withdrawal,2,Myanmar,0
+2063.523841070555,deposit,8,Los Angeles,0
+9801.947774398113,deposit,2,Los Angeles,1
+1215.811048879566,withdrawal,1,Chicago,0
+6733.07370639647,withdrawal,8,Los Angeles,0
+3267.3949347148828,deposit,9,New York,0
+3256.2431112481167,deposit,8,Los Angeles,1
+2673.6113609137587,deposit,7,Chicago,1
+6522.640645651929,withdrawal,9,Chicago,0
+6008.80155109582,withdrawal,4,New York,1
+8267.82520871264,deposit,8,Chicago,1
+8564.031003145667,deposit,8,Chicago,1
+2726.434416292089,withdrawal,6,Myanmar,1
+1904.527278460316,deposit,10,Chicago,1
+9414.47002325588,deposit,7,Chicago,0
+2397.3090377279427,deposit,10,New York,0
+8100.8138926624315,deposit,6,New York,1
+7175.152517769118,withdrawal,10,Myanmar,0
+4149.30506337231,withdrawal,4,Myanmar,0
+8724.650651015181,deposit,5,Los Angeles,0
+7189.629247661296,deposit,10,Myanmar,1
+3260.8983797610617,deposit,4,Los Angeles,0
+7188.60570491704,deposit,6,New York,0
+5275.138327674613,deposit,9,Los Angeles,1
+8371.016215283735,withdrawal,9,Chicago,1
+5194.951592145372,deposit,1,Myanmar,0
+5506.426308535626,withdrawal,9,Chicago,0
+5683.299842028054,deposit,2,Chicago,1
+1065.6959075717314,deposit,4,Los Angeles,0
+926.409299690664,withdrawal,3,Los Angeles,1
+7386.168666121684,deposit,6,New York,0
+7985.267450448658,deposit,7,Myanmar,1
+4637.443952712748,withdrawal,7,Chicago,1
+2933.5224043400153,withdrawal,6,Myanmar,0
+2871.088085852978,withdrawal,8,Chicago,1
+2287.7623534440377,deposit,8,Los Angeles,0
+60.34715579561305,withdrawal,7,Los Angeles,0
+8902.244437014966,withdrawal,2,Chicago,1
+426.7870648387869,deposit,5,Myanmar,0
+8419.265348024317,deposit,8,Myanmar,1
+5859.794529942624,deposit,8,Los Angeles,0
+2296.441288368791,deposit,10,Chicago,0
+3989.430318720105,deposit,6,Chicago,0
+4887.659487281016,deposit,3,New York,1
+9961.0030768842,deposit,3,New York,1
+5963.66433429491,withdrawal,2,Chicago,1
+2735.7064213478598,withdrawal,8,Myanmar,0
+5126.5952124536725,withdrawal,5,Myanmar,0
+2822.553187027039,withdrawal,6,Chicago,1
+3364.6383348242994,withdrawal,9,New York,0
+5757.152155522742,withdrawal,4,New York,0
+4515.065424636399,withdrawal,1,Myanmar,1
+9777.750662789756,deposit,2,New York,1
+8848.402910619494,deposit,9,Myanmar,0
+6290.104786171539,deposit,5,Los Angeles,1
+6563.736963463955,withdrawal,2,New York,0
+1334.6818599554845,deposit,1,Myanmar,0
+672.9142727720781,deposit,3,Los Angeles,0
+3244.419187932636,deposit,3,Myanmar,0
+7856.813563099483,withdrawal,7,Myanmar,0
+1921.6494818122346,deposit,2,Chicago,0
+9370.187707122177,deposit,4,Los Angeles,0
+8560.02330722854,withdrawal,2,Myanmar,0
+3531.8527023483994,deposit,8,New York,1
+8048.043054599515,deposit,6,New York,0
+1073.897395018266,withdrawal,7,Los Angeles,1
+9100.574460657512,deposit,3,New York,1
+1927.9449540867997,withdrawal,10,Myanmar,0
+656.4130489424313,deposit,9,Los Angeles,0
+2387.2085825918984,deposit,7,Los Angeles,1
+9400.0910795746,deposit,2,New York,1
+6407.782117010196,withdrawal,4,New York,1
+8466.60415435932,withdrawal,6,New York,0
+3193.447879750083,withdrawal,6,Los Angeles,1
+7313.2696374493,deposit,6,New York,1
+6540.115016717183,withdrawal,5,Chicago,0
+8786.94960235299,deposit,7,Chicago,0
+6470.766204169572,deposit,10,New York,1
+144.86381766434607,withdrawal,7,Myanmar,1
+3018.5400231141302,withdrawal,5,Chicago,1
+3974.3896895173334,deposit,7,Chicago,0
+1105.1581824113514,withdrawal,7,Chicago,1
+2753.023994516417,deposit,4,New York,1
+6498.794205414435,withdrawal,6,New York,1
+4933.744915218784,withdrawal,7,New York,1
+3149.7065234035886,withdrawal,5,Los Angeles,1
+7335.604389174875,deposit,7,Myanmar,1
+1163.975841565329,deposit,2,Myanmar,1
+2613.6472242123036,deposit,10,Myanmar,0
+5329.663684498903,withdrawal,1,Chicago,1
+5927.369888282554,withdrawal,4,Los Angeles,0
+9013.60460941727,withdrawal,4,Chicago,1
+3654.4858342753564,deposit,6,Chicago,0
+8523.429328601449,withdrawal,6,Los Angeles,0
+3304.0080023152404,withdrawal,10,Chicago,0
+2220.9385503190733,withdrawal,1,New York,1
+4847.583607153516,withdrawal,4,Myanmar,1
+305.6577231182172,withdrawal,4,Los Angeles,1
+4915.582600422373,withdrawal,3,Chicago,1
+1333.6970377804448,withdrawal,9,New York,0
+6619.494931393286,withdrawal,7,Los Angeles,0
+9336.119585179853,deposit,3,Los Angeles,0
+6051.581113440557,deposit,2,Chicago,0
+5804.27274795628,withdrawal,10,Chicago,1
+5960.771888794382,deposit,9,Myanmar,0
+7990.914803252024,withdrawal,4,New York,1
+5958.104744343312,deposit,7,New York,0
+972.53326624639,deposit,5,New York,0
+4667.405502751491,deposit,8,Myanmar,0
+1607.211407329069,deposit,4,New York,1
+6460.06505011033,deposit,7,Myanmar,1
+3141.8791228550294,withdrawal,1,Myanmar,0
+106.25459311399761,deposit,1,Chicago,0
+1220.398858051985,deposit,1,Myanmar,0
+9821.079557858235,deposit,5,Los Angeles,1
+2018.365186447456,withdrawal,3,Myanmar,1
+7177.176271662455,withdrawal,5,Chicago,0
+3730.112136837308,deposit,5,Myanmar,0
+7805.590986413359,withdrawal,10,Los Angeles,0
+3947.426877130745,withdrawal,3,Chicago,0
+7832.710232293271,deposit,10,Los Angeles,1
+4270.423617964391,withdrawal,5,Los Angeles,1
+7771.210207839364,deposit,1,New York,1
+3971.323901764309,withdrawal,8,Los Angeles,0
+1572.2487860310662,deposit,9,Myanmar,0
+7582.694298391097,deposit,1,New York,0
+4042.6094720066967,withdrawal,8,Chicago,0
+3802.655723170111,deposit,6,New York,0
+1834.522770436302,deposit,7,Los Angeles,1
+5364.077245763738,withdrawal,4,Los Angeles,0
+7700.461468936208,deposit,5,New York,0
+275.84813922267233,deposit,8,Los Angeles,1
+7080.06793921019,deposit,3,Chicago,0
+880.4258080742621,withdrawal,2,New York,0
+4511.112639608233,deposit,8,New York,1
+427.64891877180384,deposit,4,New York,1
+7350.583076707637,withdrawal,1,Chicago,1
+2980.220103558079,deposit,8,New York,0
+2901.3754211410715,deposit,5,Los Angeles,1
+4263.810771164534,withdrawal,8,New York,0
+9778.91422743597,deposit,4,Myanmar,0
+8769.816413152486,withdrawal,3,Chicago,1
+2741.2326532128113,withdrawal,4,Chicago,0
+7449.196997382512,deposit,7,Myanmar,0
+3753.592839066059,withdrawal,5,Chicago,1
+6256.483595066124,withdrawal,9,Chicago,1
+5945.80418549571,withdrawal,5,Myanmar,0
+608.6511705884235,deposit,7,Myanmar,0
+6113.158589790701,withdrawal,5,Myanmar,0
+7159.907135716921,deposit,6,New York,0
+2302.9795091051196,deposit,10,Chicago,0
+2898.4888021707684,withdrawal,4,New York,0
+8706.356789217198,withdrawal,4,New York,0
+3683.680140314966,deposit,1,Los Angeles,1
+6023.468867601348,withdrawal,9,Chicago,1
+3775.575566273542,deposit,6,Myanmar,1
+6988.33129868345,deposit,10,Myanmar,1
+4040.143220287311,withdrawal,9,New York,1
+5219.193246207903,deposit,6,Chicago,0
+3169.2873034072786,deposit,10,Los Angeles,0
+8674.960873264145,withdrawal,9,Myanmar,0
+1421.1224576152345,withdrawal,6,Myanmar,0
+992.9326038518311,deposit,1,Los Angeles,1
+2241.9514511606967,deposit,1,Chicago,1
+122.02368154720911,deposit,1,Los Angeles,0
+1648.703009391099,deposit,2,Chicago,0
+7749.695694834338,withdrawal,6,Myanmar,0
+2812.3470512705157,deposit,7,New York,1
+1758.4544414146749,deposit,2,Myanmar,0
+2412.1269681415956,withdrawal,8,Myanmar,1
+197.26382519548184,withdrawal,10,Los Angeles,0
+2510.222734315536,withdrawal,7,Chicago,0
+6987.3807329023375,deposit,2,New York,0
+2655.0415650170157,deposit,8,Chicago,1
+7902.225750962919,withdrawal,2,Myanmar,1
+6061.362321064744,deposit,1,New York,0
+7881.777707679546,deposit,5,New York,1
+9591.726345342839,deposit,3,Myanmar,1
+8236.924464416481,withdrawal,3,Chicago,0
+3030.1550656518584,withdrawal,7,New York,1
+5105.738772071664,withdrawal,8,Myanmar,1
+8557.763958087833,withdrawal,8,Chicago,1
+7449.310058352728,withdrawal,8,Los Angeles,0
+9271.209715365747,withdrawal,6,New York,0
+1977.3636141086995,deposit,2,New York,1
+9286.253091449313,withdrawal,1,New York,1
+660.692199031955,withdrawal,2,New York,1
+8900.175347727682,withdrawal,8,Los Angeles,0
+9330.041700438089,withdrawal,1,Chicago,0
+4144.356425103848,deposit,7,Los Angeles,0
+6861.018701707474,withdrawal,1,New York,1
+1504.245760626332,deposit,5,Chicago,1
+7849.964285629801,withdrawal,6,Myanmar,0
+9872.886957551886,deposit,6,Myanmar,1
+7526.019100284168,withdrawal,5,Los Angeles,1
+2474.771424038624,deposit,7,Chicago,0
+5722.386626302826,withdrawal,5,Chicago,0
+1620.7936089921368,withdrawal,8,Myanmar,0
+8123.452904808818,withdrawal,2,Chicago,0
+1331.5521449352434,withdrawal,3,Los Angeles,0
+1343.1742393625548,withdrawal,9,New York,0
+9089.121798491393,withdrawal,10,Los Angeles,1
+5869.547697015241,withdrawal,2,Chicago,0
+8961.625382283384,withdrawal,1,New York,1
+1729.6440620795563,withdrawal,3,Chicago,0
+5089.663152344448,withdrawal,7,New York,0
+2708.5879984595686,deposit,1,Myanmar,0
+874.5341783799958,withdrawal,2,Los Angeles,0
+6167.031617751964,withdrawal,2,Chicago,1
+3690.2716906306105,withdrawal,4,Chicago,0
+3651.445801544234,withdrawal,1,New York,0
+4466.806304110133,deposit,1,New York,1
+9128.809454138162,withdrawal,1,Los Angeles,1
+6608.558204949193,withdrawal,9,New York,0
+3019.26568876285,deposit,4,Los Angeles,1
+4629.084808498273,withdrawal,9,Los Angeles,1
+6789.646059353354,withdrawal,7,Myanmar,1
+647.5556759758356,withdrawal,5,Myanmar,1
+1736.80928946454,deposit,5,Los Angeles,1
+9235.787997100704,withdrawal,7,Myanmar,1
+9223.347382150296,withdrawal,8,Myanmar,0
+2077.7899560216993,withdrawal,1,New York,0
+2121.8720322563613,deposit,6,New York,1
+287.51208466331923,withdrawal,7,New York,1
+6682.571089584697,withdrawal,4,Los Angeles,0
+4507.822325970935,deposit,6,Chicago,1
+1127.935108145307,withdrawal,5,Los Angeles,1
+7978.799600391385,deposit,6,New York,1
+3291.5748368513923,deposit,8,Myanmar,1
+696.58811524551,withdrawal,2,Los Angeles,1
+1438.8185453277392,withdrawal,7,Los Angeles,1
+1599.456487298035,withdrawal,3,Myanmar,1
+7152.601278935804,deposit,1,Los Angeles,1
+9041.421889430716,deposit,9,New York,0
+2511.0307314506485,withdrawal,3,Myanmar,1
+3866.530245428447,deposit,1,New York,0
+8411.978374768902,withdrawal,2,Los Angeles,0
+2705.1072337471737,deposit,10,New York,1
+9602.655791600917,deposit,8,Myanmar,0
+523.2338449830917,withdrawal,6,Myanmar,0
+8027.742927060977,withdrawal,4,Myanmar,0
+2365.7976195725873,withdrawal,4,Los Angeles,0
+5870.176997620448,deposit,10,New York,1
+6178.578741897088,deposit,5,New York,0
+9238.32112314715,withdrawal,8,Los Angeles,0
+996.4475951535338,deposit,3,Chicago,1
+1857.4796295641563,withdrawal,6,Los Angeles,0
+7246.053604354945,deposit,3,Chicago,1
+5596.209395731968,deposit,6,Myanmar,0
+3370.433181540143,deposit,1,New York,0
+8357.003848618268,deposit,10,Chicago,0
+125.10968202042409,withdrawal,2,New York,0
+2500.6785358445823,withdrawal,3,Myanmar,0
+6035.596558156926,withdrawal,1,New York,1
+7402.560706197202,deposit,8,Myanmar,1
+8425.473445676218,withdrawal,7,New York,1
+3947.201041289373,deposit,10,New York,0
+9522.820884644474,withdrawal,1,Chicago,1
+9431.18128740413,withdrawal,4,Los Angeles,1
+3791.6480827164164,deposit,4,Myanmar,0
+9747.099873776528,withdrawal,2,Chicago,0
+5251.916697045977,withdrawal,8,Los Angeles,1
+215.87305087495085,deposit,3,New York,0
+5562.68246727238,deposit,6,Los Angeles,0
+7852.418702193447,withdrawal,9,Chicago,0
+4787.238997902004,withdrawal,5,Chicago,1
+2560.140505616179,deposit,8,Myanmar,1
+1456.3997984108676,deposit,4,Los Angeles,0
+9366.169883170232,deposit,9,Myanmar,0
+4526.327354445675,deposit,6,Chicago,0
+4233.73931051092,deposit,1,Chicago,0
+2366.5718618661435,withdrawal,6,Los Angeles,1
+5079.846094321803,deposit,1,Los Angeles,1
+8091.6103615710035,withdrawal,6,Chicago,1
+8966.418847676512,deposit,8,Los Angeles,0
+754.4142773992531,deposit,5,Los Angeles,0
+4887.0812289104815,deposit,3,Myanmar,1
+3630.9389750530227,deposit,1,New York,0
+809.6855782689856,withdrawal,6,New York,0
+1027.0370035262345,deposit,8,Los Angeles,0
+7033.614399348466,withdrawal,10,Chicago,1
+2739.5549404411095,deposit,1,Los Angeles,1
+6706.141830003706,withdrawal,1,New York,1
+122.53022198948993,withdrawal,5,Myanmar,0
+11.373557573173205,withdrawal,1,New York,0
+1115.825628467936,withdrawal,10,Los Angeles,1
+7663.98557328672,deposit,4,Los Angeles,1
+2107.489043455862,deposit,3,New York,0
+3240.967850787594,withdrawal,10,New York,0
+2186.7353988370805,deposit,9,New York,0
+4361.245166905553,deposit,9,Chicago,1
+2274.0413196045542,deposit,8,New York,1
+5334.621374665399,deposit,8,Los Angeles,0
+104.51253861292854,withdrawal,7,New York,1
+1354.8583432159148,deposit,7,Los Angeles,0
+9012.991416735924,withdrawal,9,Los Angeles,1
+8461.759864916254,withdrawal,8,Chicago,1
+872.652071527466,deposit,9,Myanmar,1
+229.95585891021466,deposit,8,Los Angeles,1
+6178.8747632070645,deposit,3,Myanmar,0
+8668.422710239745,deposit,10,Myanmar,0
+9738.153801002747,withdrawal,5,New York,1
+5409.1277676873415,deposit,5,Los Angeles,1
+1810.5603999436003,withdrawal,5,Chicago,0
+9867.618342308757,deposit,4,New York,1
+6480.65338126807,deposit,1,Los Angeles,0
+9247.28728515268,deposit,4,New York,0
+7918.803784197915,deposit,5,Myanmar,1
+7218.713206476741,deposit,2,Los Angeles,1
+8237.535490641938,withdrawal,8,New York,1
+1232.4305391913697,deposit,6,Myanmar,1
+2129.0582202817486,deposit,10,New York,1
+3863.616779404415,withdrawal,8,Los Angeles,0
+5835.994575276951,deposit,5,Los Angeles,1
+232.1641343823295,deposit,4,Myanmar,0
+3024.3993144266283,deposit,9,Chicago,0
+2076.400352412098,deposit,1,Los Angeles,0
+9517.962323567337,withdrawal,2,Myanmar,1
+601.1687270542109,withdrawal,10,Myanmar,0
+7135.866861277195,withdrawal,9,New York,0
+7137.694039100403,deposit,3,New York,1
+2530.417485316518,deposit,5,Los Angeles,0
+2592.8373240355554,deposit,10,Chicago,0
+2973.897595983591,deposit,1,Myanmar,0
+897.7810210517493,deposit,9,Myanmar,0
+7169.256047388367,deposit,8,Los Angeles,1
+1053.7177043315985,withdrawal,3,Los Angeles,0
+1204.584692214566,withdrawal,8,Chicago,1
+9558.450795238125,withdrawal,3,New York,1
+9581.37279466258,deposit,2,Chicago,1
+6541.594947862847,deposit,7,New York,0
+9522.074759593068,deposit,10,Los Angeles,1
+8580.289645019855,withdrawal,6,New York,1
+5942.280051041614,withdrawal,9,Los Angeles,0
+519.6158890062248,deposit,10,New York,1
+1742.4661552736081,deposit,9,Los Angeles,1
+9067.484135159379,withdrawal,3,Myanmar,1
+7525.180013119693,deposit,4,New York,1
+3205.699002640924,withdrawal,3,New York,0
+3426.480833889258,withdrawal,4,Chicago,0
+6955.023647375755,withdrawal,10,Los Angeles,1
+1607.9701133087144,withdrawal,7,Los Angeles,1
+6735.754498279297,withdrawal,1,New York,1
+3494.0114831823275,deposit,9,Myanmar,0
+5684.544415022221,deposit,6,Myanmar,1
+3696.0968727876525,deposit,6,Los Angeles,1
+7042.781153163453,deposit,6,Los Angeles,0
+2273.0005841312704,deposit,1,Chicago,0
+8096.520477288212,deposit,8,Myanmar,0
+9678.294811142332,withdrawal,3,Chicago,0
+3645.3555377600933,withdrawal,10,Chicago,0
+6800.095071923391,deposit,4,Los Angeles,0
+8746.052565738493,withdrawal,10,New York,0
+105.13878375027082,withdrawal,5,Myanmar,0
+7651.274100838483,deposit,7,Los Angeles,0
+8242.16904693591,deposit,5,Myanmar,1
+8031.7574931424815,withdrawal,2,New York,0
+5555.452341694614,deposit,6,New York,1
+3190.646801810022,withdrawal,5,Myanmar,0
+6567.791158269983,deposit,9,New York,1
+7765.35961321616,deposit,3,Los Angeles,0
+3951.3400447673357,deposit,3,Myanmar,1
+3379.330349450713,withdrawal,3,New York,1
+6814.917409621142,deposit,6,Myanmar,0
+7388.955667509822,withdrawal,8,New York,1
+9109.23263385174,withdrawal,10,Chicago,1
+129.66468113905074,withdrawal,1,Chicago,1
+2167.3880173921234,deposit,4,Myanmar,0
+6468.718907006621,deposit,1,Myanmar,1
+2667.656658708269,withdrawal,2,Chicago,1
+6967.473232034303,withdrawal,6,Los Angeles,1
+1264.0456974314413,deposit,4,Los Angeles,1
+7578.22220198394,withdrawal,7,Myanmar,0
+3715.781221763481,deposit,8,Chicago,1
+4708.026348737079,withdrawal,7,Myanmar,1
+5799.430271032237,deposit,7,Myanmar,0
+9521.780992666298,withdrawal,1,Myanmar,1
+3911.4993342627313,deposit,3,New York,1
+9334.778723023617,deposit,2,Los Angeles,1
+2526.8257633628414,deposit,9,Chicago,0
+4772.376568886692,withdrawal,5,Chicago,0
+8860.922655111288,deposit,1,New York,1
+2769.4275924529343,deposit,3,Los Angeles,1
+7704.959866394153,deposit,7,Los Angeles,1
+4666.228296176765,withdrawal,3,New York,1
+4473.444515429883,withdrawal,7,Los Angeles,1
+6997.6444602668,withdrawal,2,Los Angeles,0
+3008.7587795537315,withdrawal,4,Myanmar,0
+993.4972557168903,deposit,4,New York,1
+3241.526964415632,withdrawal,1,Los Angeles,1
+5347.690791126021,deposit,1,Chicago,0
+555.2238019668597,withdrawal,8,Chicago,1
+6229.713854266245,deposit,7,Los Angeles,0
+2421.4738392353415,deposit,4,Myanmar,1
+5831.016977980674,deposit,6,New York,0
+8142.43788476088,deposit,1,New York,0
+5883.449932231863,withdrawal,7,Myanmar,0
+3296.4644003528065,withdrawal,10,Chicago,1
+9936.52520413544,deposit,8,Myanmar,1
+2213.0440354985094,deposit,2,New York,0
+5247.13453988683,withdrawal,7,Chicago,0
+3119.748907820019,deposit,1,Myanmar,1
+8742.77699658947,withdrawal,1,New York,1
+4639.015806243204,deposit,8,Los Angeles,0
+4614.52918402544,withdrawal,10,Myanmar,0
+6938.286344541157,deposit,3,New York,1
+4390.327794859876,deposit,10,Myanmar,0
+982.3011441777041,withdrawal,8,New York,0
+6810.2313454018695,deposit,6,New York,0
+1279.2921191591988,deposit,4,Myanmar,1
+3905.1578864269977,withdrawal,2,Los Angeles,1
+5935.1116960870795,deposit,7,New York,0
+3780.865772569356,withdrawal,9,Los Angeles,1
+4229.534912771385,deposit,8,New York,1
+5112.08110682586,deposit,10,Chicago,1
+2394.404529340114,deposit,7,New York,1
+9354.358631421615,withdrawal,5,Myanmar,0
+8988.645502361764,withdrawal,8,Chicago,0
+150.40045639294564,deposit,3,New York,1
+2140.969239178854,withdrawal,9,Myanmar,0
+9659.020062405616,deposit,2,Los Angeles,0
+1342.9025459103536,withdrawal,8,Myanmar,1
+8734.592851257354,withdrawal,6,Chicago,1
+4867.63703358958,deposit,6,Myanmar,1
+7312.880363549861,withdrawal,1,Los Angeles,1
+894.664841412748,deposit,9,New York,1
+1375.329668482256,withdrawal,7,New York,1
+7143.4635690486275,deposit,9,Myanmar,1
+2198.872229361501,deposit,5,Chicago,1
+7098.470774223451,withdrawal,4,Chicago,1
+2142.3646543777463,deposit,7,Chicago,0
+2575.109622038093,deposit,2,Los Angeles,1
+2635.064165521632,deposit,1,New York,0
+311.0202679216587,deposit,3,Los Angeles,1
+6282.5874271778,deposit,5,New York,1
+3661.171061405765,deposit,9,Myanmar,1
+5473.833940671533,deposit,9,Los Angeles,0
+1483.6772033773739,withdrawal,1,Los Angeles,0
+6962.616634600985,withdrawal,8,Myanmar,1
+274.6323225788324,deposit,4,Chicago,0
+4489.29997860113,withdrawal,7,New York,0
+3650.5334507338894,withdrawal,10,New York,0
+9434.57342491769,deposit,2,Myanmar,0
+7365.415477182318,deposit,4,Myanmar,1
+649.3567301576774,withdrawal,9,Myanmar,1
+6147.91583921218,withdrawal,4,Myanmar,1
+2272.07788187783,withdrawal,5,Myanmar,1
+2808.2336555629768,deposit,5,Myanmar,1
+6271.9117968868595,withdrawal,1,Myanmar,0
+8887.366417073647,deposit,2,Los Angeles,1
+9797.565533379708,withdrawal,2,Myanmar,1
+4429.545705676548,withdrawal,4,New York,1
+7584.050586956141,withdrawal,10,Los Angeles,0
+6767.43541090691,withdrawal,3,Myanmar,1
+2968.2345475738007,deposit,10,Los Angeles,1
+6458.218765090607,withdrawal,6,Chicago,0
+4162.729917708681,withdrawal,6,New York,0
+8634.021118337077,withdrawal,1,Los Angeles,0
+6712.160159107156,deposit,2,Los Angeles,0
+7337.894333861395,withdrawal,7,New York,1
+6887.204722297035,deposit,8,Myanmar,0
+884.8521055432972,withdrawal,6,Myanmar,1
+7198.046228189583,withdrawal,3,Myanmar,1
+646.3083447314896,deposit,1,Chicago,0
+6447.496168798142,withdrawal,10,New York,1
+6119.981234732607,withdrawal,7,Myanmar,1
+4922.148762866131,withdrawal,5,New York,0
+9879.126126023448,deposit,7,Chicago,1
+7004.284768978032,deposit,1,Los Angeles,1
+7231.401072003003,withdrawal,10,Chicago,1
+8101.933041356228,withdrawal,6,Los Angeles,0
+7659.28095642658,deposit,6,New York,0
+7300.459726868421,deposit,4,Chicago,1
+2902.8490308346845,deposit,4,Chicago,1
+8897.569401543411,withdrawal,9,Myanmar,0
+2653.066421574169,withdrawal,5,Chicago,1
+121.96744935060121,deposit,5,Chicago,1
+7428.506257102026,withdrawal,4,Myanmar,0
+3221.3979349267993,withdrawal,4,Chicago,1
+3242.8952331658666,deposit,7,Myanmar,1
+8595.08822953903,deposit,7,New York,0
+6540.811470856079,deposit,8,New York,1
+382.6413001056536,deposit,6,New York,1
+26.692961646806605,withdrawal,8,Chicago,0
+2474.303083509688,withdrawal,4,New York,1
+1165.36410560917,deposit,1,Myanmar,1
+3777.5166129916665,withdrawal,9,New York,1
+3372.041989790197,withdrawal,10,Los Angeles,1
+7922.957008057809,deposit,1,Myanmar,0
+8409.54186871467,withdrawal,10,New York,1
+8861.203667162537,withdrawal,10,Myanmar,1
+8791.332782749783,withdrawal,3,Myanmar,0
+5878.5295804324005,deposit,8,Los Angeles,1
+820.1135625381312,withdrawal,2,Myanmar,1
+9213.527287844317,deposit,1,Myanmar,0
+9531.146214689215,deposit,7,Chicago,1
+194.27750131054265,withdrawal,10,Los Angeles,1
+116.90245135620432,withdrawal,8,New York,0
+8932.556500171022,deposit,10,New York,0
+6057.227988847664,deposit,1,Myanmar,1
+9419.046671109914,deposit,7,Chicago,1
+5233.4988330679935,withdrawal,1,Myanmar,0
+7872.50405886919,deposit,9,New York,1
+3977.5565794806985,deposit,3,New York,1
+1194.076132050432,withdrawal,6,Chicago,0
+6455.441731977418,deposit,3,Los Angeles,0
+5056.147531715549,deposit,5,Myanmar,1
+5511.1556649439335,withdrawal,1,Chicago,1
+1037.8304528977822,withdrawal,10,New York,1
+1268.401509415073,deposit,3,Myanmar,1
+1140.0050502989031,withdrawal,4,New York,1
+4669.885655581641,withdrawal,1,Los Angeles,1
+2859.828102612363,withdrawal,1,New York,1
+1323.981796129806,withdrawal,3,New York,0
+6426.336378195674,deposit,10,Los Angeles,0
+5533.872597361268,deposit,4,New York,1
+4613.283668297036,withdrawal,4,Los Angeles,1
+2298.1275707766454,withdrawal,4,Los Angeles,1
+1353.248398846829,deposit,6,Los Angeles,1
+183.06466933210928,withdrawal,4,Chicago,1
+3003.774534838412,deposit,10,New York,1
+7206.051617583614,withdrawal,1,Chicago,1
+4517.276548924457,deposit,5,Myanmar,1
+907.6189425117244,deposit,7,Los Angeles,0
+6909.075074109251,withdrawal,6,Chicago,0
+2774.243897324669,withdrawal,10,New York,0
+8337.574480900217,withdrawal,3,Los Angeles,1
+1754.1204471505378,withdrawal,3,Myanmar,0
+6135.95051780923,withdrawal,8,Myanmar,0
